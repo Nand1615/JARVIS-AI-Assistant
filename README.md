@@ -1,28 +1,28 @@
-# JARVIS – AI Assistant
+# JARVIS – AI Assistant (Level 1)
 
-A Python-based AI assistant that takes voice or text commands
-and performs basic system and web tasks using simple NLP logic.
+JARVIS is a Python-based command-line AI assistant that
+takes user input, detects intent, and performs basic actions.
 
 ## Features
-- Voice and text input
-- Intent recognition (rule-based)
-- Open applications
-- Web search
-- Text-to-speech response
+- Text-based interaction
+- Rule-based intent detection
+- Modular project structure
+- Easy to extend
 
 ## Tech Stack
 - Python
-- Speech Recognition
-- Text-to-Speech
-- Basic NLP logic
+- Standard libraries
 
 ## What I Learned
-- Project structuring
-- API integration
-- Error handling
-- Breaking a real problem into modules
+- Modular coding
+- Basic intent recognition
+- Clean project structure
+- Incremental development
 
 ## How to Run
 1. Clone the repository
-2. Install requirements
-3. Run main.py
+2. Run `python main.py`
+3. Type commands like:
+   - hello
+   - time
+   - exit
